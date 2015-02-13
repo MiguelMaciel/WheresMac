@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WheresMac</string>
+    <string name="title_activity_mac_existentes">MacDonald\'s Existentes</string>
+    <string name="title_activity_mac_details">Dados do MacDonald\'s</string>
+    <string name="title_activity_information">Informação</string>
+    <string name="txtSearch">Pesquisar</string>
+    <string name="txtLocal">Local</string>
+    <string name="txtNome">Nome</string>
+    <string name="txtHome">Home</string>
+    <string name="txtDeveloper">Programador</string>
+    <string name="txtVersion">Versão 1.0</string>
+    <string name="txtDeveloperName">Miguel Maciel</string>
+    <string name="txtDisclaimer">Alerta</string>
+    <string name="txtDisclaimerText">Esta aplicação não está associada de nenhuma maneira a Sistemas McDonald\'s Portugal. Não nos responsabilizamos por informações erradas.</string>
+    <string name="txtSugestions">Utilize o botão abaixo para relatar suspeitas de erros na aplicação. Os seus comentários, sugestões e ideias para melhorias são muito importantes para nós.</string>
+    <string name="txtContact">Contacto</string>
+    <string name="txtAbout">Acerca</string>
+    <string name="txtSelectLocal">Seleccione uma Localidade</string>
+    <string name="txtNeedInternet">Necessário ligação à Internet!</string>
+    <string name="txtWait">Aguarde</string>
+    <string name="txtDownload">A descarregar dados&#8230;</string>
+    <string name="txtEmail">MiguelAmorimMaciel@gmail.com</string>
+    <string name="txtSubject">Where\'s Mac Sugestões\/Erros\/Ideias</string>
+    <string name="check_your_mail_provider_">Verifique o seu provedor de Email!</string>
+
+    <string-array name="arrayLocalidades">
+        <item>Seleccione uma Localidade</item>
+        <item>Águeda</item>
+        <item>Albufeira</item>
+        <item>Algés</item>
+        <item>Almada</item>
+        <item>Alverca do Ribatejo</item>
+        <item>Amadora</item>
+        <item>Aveiro</item>
+        <item>Barcelos</item>
+        <item>Barreiro</item>
+        <item>Beja</item>
+        <item>Belas</item>
+        <item>Braga</item>
+        <item>Caldas da Rainha</item>
+        <item>Carnaxide</item>
+        <item>Carregado</item>
+        <item>Cascais</item>
+        <item>Castelo Branco</item>
+        <item>Charneca da Caparica</item>
+        <item>Chaves</item>
+        <item>Coimbra</item>
+        <item>Coina</item>
+        <item>Corroios</item>
+        <item>Covilhã</item>
+        <item>Ermesinde</item>
+        <item>Estoril</item>
+        <item>Évora</item>
+        <item>Faro</item>
+        <item>Felgueiras</item>
+        <item>Figueira da Foz</item>
+        <item>Funchal</item>
+        <item>Guarda</item>
+        <item>Guia</item>
+        <item>Guimarães</item>
+        <item>Lagos</item>
+        <item>Leiria</item>
+        <item>Lisboa</item>
+        <item>Loures</item>
+        <item>Lourosa</item>
+        <item>Maia</item>
+        <item>Marinha Grande</item>
+        <item>Massamá</item>
+        <item>Matosinhos</item>
+        <item>Mem Martins</item>
+        <item>Montijo</item>
+        <item>Odivelas</item>
+        <item>Oeiras</item>
+        <item>Olhão</item>
+        <item>Paços de Ferreira</item>
+        <item>Palmela</item>
+        <item>Penafiel</item>
+        <item>Pinhal Novo</item>
+        <item>Ponta Delgada</item>
+        <item>Portimão</item>
+        <item>Porto</item>
+        <item>Porto Salvo</item>
+        <item>Queluz</item>
+        <item>Rio de Mouro</item>
+        <item>Rio Tinto</item>
+        <item>Santarém</item>
+        <item>São Domingos de Rana</item>
+        <item>São João da Madeira</item>
+        <item>Seixal</item>
+        <item>Senhora da Hora</item>
+        <item>Setúbal</item>
+        <item>Stª Maria da Feira</item>
+        <item>Tomar</item>
+        <item>Torres  Novas</item>
+        <item>Torres Vedras</item>
+        <item>Urgeses</item>
+        <item>Viana do Castelo</item>
+        <item>Vila do Conde</item>
+        <item>Vila Franca de Xira</item>
+        <item>Vila Nova de Famalicão</item>
+        <item>Vila Nova de Gaia</item>
+        <item>Vila Real</item>
+        <item>Vilamoura</item>
+        <item>Viseu</item>
+    </string-array>
+
+</resources>

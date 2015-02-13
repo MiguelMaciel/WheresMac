@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\miguel\AndroidstudioProjects\WheresMac\wheresMac\build\intermediates\exploded-aar\WheresMac\volley\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c1fb4225d90b2d110f6b8cd87c8cfbb44086720c">
+        <dex dex="C:\Users\miguel\AndroidstudioProjects\WheresMac\wheresMac\build\intermediates\pre-dexed\debug\classes-f39d022c5acb7243db9c8fa57c9fa9ec7cfb997d.jar" />
+    </item>
+    <item
+        jar="C:\Users\miguel\AndroidstudioProjects\WheresMac\wheresMac\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\miguel\AndroidstudioProjects\WheresMac\wheresMac\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-27ee4645d94d3c1c73ee68c7e882ebb30c019705.jar" />
+    </item>
+    <item
+        jar="C:\Users\miguel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\miguel\AndroidstudioProjects\WheresMac\wheresMac\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-f024d66fa51b0d9ca3fdada817bac96ccc9ebe25.jar" />
+    </item>
+    <item
+        jar="C:\Users\miguel\AndroidstudioProjects\WheresMac\wheresMac\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\miguel\AndroidstudioProjects\WheresMac\wheresMac\build\intermediates\pre-dexed\debug\classes-0bf5483e42434603d9e5186e16aa38a8f309e34a.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="miguelmaciel.play.wheresmac"
+    android:versionCode="2"
+    android:versionName="1.1">
+
+    <uses-sdk
+        android:minSdkVersion="4"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="false"
+        android:icon="@drawable/ic_logo"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="miguelmaciel.play.wheresmac.MainActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="miguelmaciel.play.wheresmac.MacExistentes"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/title_activity_mac_existentes"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="miguelmaciel.play.wheresmac.MacDetails"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/title_activity_mac_details"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="miguelmaciel.play.wheresmac.Information"
+            android:label="@string/title_activity_information"></activity>
+    </application>
+
+</manifest>
